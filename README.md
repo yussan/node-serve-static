@@ -1,2 +1,2 @@
 # node-serve-static
-Serve route from static site using NodeJS
+Serve static website from static site using NodeJS
